@@ -1,0 +1,6 @@
+print("Senior Project Developer Profile")
+print()
+print("Name: Preston Frazier")
+print("Major: Computer Science")
+print("Technology Interest: UX/UI Design and Artificial Intelligence")
+print("Skill Goal: Full-Stack Software Development")
